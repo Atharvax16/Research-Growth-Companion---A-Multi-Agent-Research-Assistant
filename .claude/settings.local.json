@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(nslookup:*)",
+      "Bash(printf \"What are the latest papers on large language model reasoning?\\\\nquit\\\\n\")",
+      "Bash(printf \"Compare GPT-4o vs Claude 3.5 Sonnet for code generation benchmarks\\\\nquit\\\\n\")"
+    ]
+  }
+}
